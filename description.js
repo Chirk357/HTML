@@ -27,6 +27,8 @@
 // let x = prompt('Введите имя');
 // alert(`Привет, ${x}`);
 
+//php: <b class="name"><Привет</b> <?php
+
 
 function firstName()
 {
